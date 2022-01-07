@@ -1,8 +1,8 @@
-
-html, body {
-    background-color: #21232A;
-    color: white;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 1.3rem;
-    padding: 70px;
+html,
+body {
+  background-color: #21232a;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.3rem;
+  padding: 70px;
 }
